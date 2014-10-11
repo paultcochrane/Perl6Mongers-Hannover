@@ -3,8 +3,7 @@ module PerlMongers::Hannover;
 sub info is export {
     my $path = "$*CWD";
     my $package = $path ~ "/lib/PerlMongers/Hannover.pm";
-    my $cmd = "perl6 --doc $package";
-    qqw{$cmd};
+    qx{"perl6 --doc $package"};
 }
 
 =begin pod
