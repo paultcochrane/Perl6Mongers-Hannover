@@ -2,7 +2,6 @@ module PerlMongers::Hannover;
 
 sub info is export {
     my $path = "$*CWD";
-    say $path;
     my $package = $path ~ "/lib/PerlMongers/Hannover.pm";
     my $cmd = "perl6 --doc $package";
     qqw{$cmd};
