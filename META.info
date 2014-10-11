@@ -1,0 +1,8 @@
+{
+    "name" : "PerlMongers::Hannover",
+    "version" : "0.04",
+    "description" : "Hannover Perl Mongers.",
+    "author" : "Paul Cochrane",
+    "depends" : [ ],
+    "source-url" : "git://github.com/paultcochrane/Perl6Mongers-Hannover.git"
+}
