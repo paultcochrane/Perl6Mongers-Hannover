@@ -18,7 +18,7 @@ Version 0.04
 
 =head1 SYNOPSIS
 
-    use PerlMongers::Hannover qw(info);
+    use PerlMongers::Hannover;
 
     info();
 
