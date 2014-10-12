@@ -3,6 +3,6 @@
     "version" : "0.04",
     "description" : "Hannover Perl Mongers.",
     "author" : "Paul Cochrane",
-    "depends" : [ ],
+    "depends" : [ Test, IO::Capture::Simple ],
     "source-url" : "git://github.com/paultcochrane/Perl6Mongers-Hannover.git"
 }
