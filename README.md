@@ -6,7 +6,7 @@ Version 0.5.6
 
 ## SYNOPSIS
 
-    use PerlMongers::Hannover qw(info);
+    use PerlMongers::Hannover;
 
     info();
 
