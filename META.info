@@ -1,6 +1,6 @@
 {
     "name" : "PerlMongers::Hannover",
-    "version" : "0.04",
+    "version" : "0.5.6",
     "description" : "Hannover Perl Mongers.",
     "author" : "Paul Cochrane",
     "depends" : [ Test, IO::Capture::Simple ],
