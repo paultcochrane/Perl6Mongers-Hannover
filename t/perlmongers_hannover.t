@@ -6,7 +6,7 @@ plan 1;
 
 use PerlMongers::Hannover;
 
-my $output = capture_stdout { info(); };
+my $output = capture_stdout { info.say; };
 
 ok $output ~~ m/'Hannover Perl Mongers'/;
 

@@ -8,7 +8,7 @@ Version 0.5.6
 
     use PerlMongers::Hannover;
 
-    info();
+    info.say;
 
 ### Website
 

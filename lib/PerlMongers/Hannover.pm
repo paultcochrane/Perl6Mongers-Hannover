@@ -4,7 +4,7 @@ sub info is export {
     my $path = "$*CWD";
     my $package = $path ~ "/lib/PerlMongers/Hannover.pm";
     my $cmd = "perl6 --doc $package";
-    say qqx{$cmd};
+    qqx{$cmd};
 }
 
 =begin pod
@@ -21,7 +21,7 @@ Version 0.5.6
 
     use PerlMongers::Hannover;
 
-    info();
+    info.say;
 
 =head2 Website
 
