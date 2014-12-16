@@ -63,7 +63,7 @@ https://github.com/paultcochrane/Perl6Mongers-Hannover
 
 ## AUTHOR
 
-Paul Cochrane <paul@hannover.pm>
+Paul Cochrane <ptc@hannover.pm>
 
 ## NOTES
 

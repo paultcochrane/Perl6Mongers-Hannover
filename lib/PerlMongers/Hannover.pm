@@ -76,7 +76,7 @@ L<https://github.com/paultcochrane/PerlMongers-Hannover>
 
 =head1 AUTHOR
 
-Paul Cochrane <paul@hannover.pm>
+Paul Cochrane <ptc@hannover.pm>
 
 =head1 NOTES
 
