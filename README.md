@@ -2,7 +2,7 @@
 
 ## VERSION
 
-Version 0.5.6
+Version 0.7.6
 
 ## SYNOPSIS
 

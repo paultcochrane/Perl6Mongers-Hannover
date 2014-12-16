@@ -15,7 +15,7 @@ PerlMongers::Hannover - Hannover Perl Mongers
 
 =head1 VERSION
 
-Version 0.5.6
+Version 0.7.6
 
 =head1 SYNOPSIS
 
