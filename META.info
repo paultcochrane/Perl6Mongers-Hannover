@@ -1,6 +1,6 @@
 {
     "name" : "PerlMongers::Hannover",
-    "version" : "0.7.6",
+    "version" : "0.8.6",
     "description" : "Hannover Perl Mongers.",
     "provides" : {
         "PerlMongers::Hannover" : "lib/PerlMongers/Hannover.pm"
