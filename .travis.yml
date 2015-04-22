@@ -7,6 +7,7 @@ install:
     - git clone https://github.com/tadzik/rakudobrew ~/.rakudobrew
     - echo 'export PATH=~/.rakudobrew/bin:$PATH' >> ~/.bashrc
     - source ~/.bashrc
+    - echo $PATH
     - rakudobrew build moar
     - rakudobrew build-panda
     - panda install IO::Capture::Simple
