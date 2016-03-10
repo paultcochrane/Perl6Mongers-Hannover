@@ -5,4 +5,8 @@ perl6:
     - 2015.09
 
 install:
-    rakudobrew build-panda $([ "$TRAVIS_PERL6_VERSION" == "latest" ] && echo "" || echo $TRAVIS_PERL6_VERSION)
+    set -x; rakudobrew build-panda $([ "$TRAVIS_PERL6_VERSION" == "latest" ] && echo "" || echo $TRAVIS_PERL6_VERSION)
+    panda install IO::Capture::Simple
+
+script:
+    prove -e "perl6 -Ilib" t
