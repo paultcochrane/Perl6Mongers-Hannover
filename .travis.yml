@@ -5,4 +5,4 @@ perl6:
     - 2015.09
 
 install:
-    rakudobrew build-panda $TRAVIS_PERL6_VERSION
+    rakudobrew build-panda $([ "$TRAVIS_PERL6_VERSION" == "latest" ] && echo "" || echo $TRAVIS_PERL6_VERSION)
