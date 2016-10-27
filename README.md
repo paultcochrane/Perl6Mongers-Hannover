@@ -72,7 +72,7 @@ modeled after `PerlMongers::Bangalore`.
 
 ## COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2015 by Hannover Perl Mongers.
+This software is copyright (c) 2015-2016 by Hannover Perl Mongers.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
