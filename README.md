@@ -1,5 +1,7 @@
 # PerlMongers::Hannover - Hannover Perl Mongers
 
+[![Build Status](https://travis-ci.org/paultcochrane/Perl6Mongers-Hannover.svg?branch=master)](https://travis-ci.org/paultcochrane/Perl6Mongers-Hannover)
+
 ## VERSION
 
 Version 0.8.6
