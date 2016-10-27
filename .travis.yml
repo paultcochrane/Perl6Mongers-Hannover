@@ -7,5 +7,5 @@ perl6:
     - latest
 
 install:
-    rakudobrew build-panda
-    panda installdeps .
+    - rakudobrew build-panda
+    - panda installdeps .
